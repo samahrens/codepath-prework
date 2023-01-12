@@ -2,13 +2,13 @@
 codepath prework project
 ## Introduce_Student
 
-### Allows a student to introduce themselves.
+### App Description
 
-`TODO://` Fill out the form and click on the "Introduce Self" button to introduce yourself.
+Allows a student to introduce themselves. Fill out the form and click on the "Introduce Self" button to introduce yourself.
 
 ### App Walk-though
 
-img src="https://gyazo.com/ac8d0b7e94ab1eea30abf9bcf1a3f6bb" width=200><br>
+<img src="https://gyazo.com/ac8d0b7e94ab1eea30abf9bcf1a3f6bb" width=200><br>
 
 ### Required Features
 
