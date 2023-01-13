@@ -8,7 +8,7 @@ Allows a student to introduce themselves. Fill out the form and click on the "In
 
 ### App Walk-though
 
-<img src="https://imgur.com/fQTKZuV" width=200><br>
+<img src="https://imgur.com/fQTKZuV.gif" width=200><br>
 
 ### Required Features
 
